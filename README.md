@@ -71,15 +71,26 @@ Beyond development, I have a strong interest in photography and enjoy combining 
 <h2 align="left">GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadithNimlakaSamaranayake&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="Nadith's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NadithNimlakaSamaranayake&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+    alt="Nadith's GitHub Stats"
+  />
   <img width="10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadithNimlakaSamaranayake&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Nadith's Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadithNimlakaSamaranayake&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+    alt="Nadith's Most Used Languages"
+  />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NadithNimlakaSamaranayake&theme=tokyonight&hide_border=true" alt="Nadith's GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=NadithNimlakaSamaranayake&theme=tokyonight&hide_border=true"
+    alt="Nadith's GitHub Streak"
+  />
 </div>
 
 ###
@@ -88,7 +99,7 @@ Beyond development, I have a strong interest in photography and enjoy combining 
 
 ### NatureFLOW
 
-A full-stack medicinal plant plantation management and harvest quality-control system developed as a team project for Nature’s Beauty Creations Ltd. Includes role-based access, field and plant management foundations, auditing, and quality-control workflows.
+A full-stack medicinal plant plantation management and harvest quality-control system developed as a team project for Nature’s Beauty Creations Ltd.
 
 **Tech:** React • TypeScript • Java • Spring Boot • MySQL • Docker
 
@@ -98,7 +109,7 @@ A full-stack medicinal plant plantation management and harvest quality-control s
 
 ### Bliss Image Web
 
-An individual full-stack photography studio website for showcasing portfolios, photography packages, quotation requests, and booking enquiries, with a staff management dashboard planned for future development.
+An individual full-stack photography studio website for showcasing portfolios, photography packages, quotation requests, and booking enquiries.
 
 **Tech:** Next.js • React • TypeScript • Tailwind CSS • MySQL
 
